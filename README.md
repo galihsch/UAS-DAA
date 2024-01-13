@@ -6,7 +6,9 @@
 
 ---
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/galihsch/UAS-DAA){:target="_blank"}
+<a href="https://gitpod.io/#https://github.com/galihsch/UAS-DAA" target="_blank">
+  <img src="https://gitpod.io/button/open-in-gitpod.svg" alt="Open in Gitpod">
+</a>
 
 
 ## Divide And Conquer
