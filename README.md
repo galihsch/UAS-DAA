@@ -13,8 +13,8 @@
 
 Contoh Program:
 
-1. [Quick Sort](src/QuickSort.cpp)
-2. [MergeSort](src/MergeSort.cpp)
-3. [FindMax](src/FindMax.cpp)
+1. [Quick Sort](src/QuickSort)
+2. [MergeSort](src/MergeSort)
+3. [MinMax](src/MinMax)
 
 ---
